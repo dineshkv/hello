@@ -1,2 +1,2 @@
-hello moto g
+moto g 
 
